@@ -62,8 +62,5 @@ To develop a wearable system that detects finger movements using flex sensors an
 - Raja Samaneshvar N
 - Vidusha S P
 
-## 🎓 **Institution**
-Dr. N.G.P Institute of Technology, Coimbatore  
-
 ## 📢 **Conclusion**
 Paraglove provides an innovative and practical solution for assistive communication using gesture recognition. It enhances independence, safety, and quality of life for individuals with limited mobility.
