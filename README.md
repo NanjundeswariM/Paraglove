@@ -1,4 +1,3 @@
-<!--
 # **PARAGLOVE** 🧤
 
 ## 📌 **Overview**
@@ -88,5 +87,3 @@ Dr. N.G.P Institute of Technology, Coimbatore
 
 ## 📢 **Conclusion**
 Paraglove provides an innovative and practical solution for assistive communication using gesture recognition. It enhances independence, safety, and quality of life for individuals with limited mobility.
-
--->
